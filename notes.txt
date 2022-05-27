@@ -9,3 +9,8 @@ Quick change to test something
 This will go into the 'example-1' branch.
 
 I'm typing this line now, but I'll add it during the stash too.
+<<<<<<< Updated upstream
+=======
+
+I'm going to stash this line, and see what's up.
+>>>>>>> Stashed changes
