@@ -11,3 +11,5 @@ This will go into the 'example-1' branch.
 I'm typing this line now, but I'll add it during the stash too.
 
 I'm going to stash this line, and see what's up.
+
+Leaving that line in, and adding this line. What will it do?
